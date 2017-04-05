@@ -46,7 +46,7 @@ Index
 - [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text;
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
-
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — Javascript, PHP, CSS , All Around
 ### Books
 ### Blogs
 ### Twitter
