@@ -1,9 +1,10 @@
 
 
-![alt text](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
+![alt text](http://i.imgur.com/9mSyuft.png)
 
-# WebDev-Resources
-Curated List Web Development Resources
+
+## Curated List of Web Development Youtube Channels
+
 
 Index
 
