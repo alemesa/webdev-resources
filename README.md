@@ -1,6 +1,8 @@
 
 
-![alt text](http://i.imgur.com/7XJp1hQ.png)
+<p align="center">
+<img src="http://i.imgur.com/7XJp1hQ.png"> 
+</p>
 
 
 ## List of Web Development Youtube Channels, Blogs and Twitter Badasses
