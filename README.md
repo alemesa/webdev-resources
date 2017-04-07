@@ -1,34 +1,14 @@
 
 
-![alt text](http://i.imgur.com/9mSyuft.png)
+![alt text](http://i.imgur.com/7XJp1hQ.png)
 
 
-## Curated List of Web Development Youtube Channels
+## List of Web Development Youtube Channels, Blogs and Twitter Badasses
 
+* ### [Youtube](#youtube)
+* ### [Blogs](#blogs)
+* ### [Twitter](#twitter)
 
-Index
-
-* [HTML/CSS](#html_css)  
-* [Javascript](#javascript)
-* [Javascript Frameworks](#javascript_frameworks)
-* [CSS Stuff](#css_stuff)  
-* [Wordpress](#wordpress)
-* [Other CMS](#cms)
-* [PHP](#php)  
-* [Resources](#resources)
-* [Youtube](#youtube)
-* [Books](#books)
-* [Blogs](#blogs)
-* [Twitter](#twitter)
-
-### HTML_CSS
-### Javascript
-### Javascript_Frameworks
-### CSS_Stuff
-### Wordpress
-### CMS
-### PHP
-### Resources
 ### Youtube
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices;
 - [LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) — HTML, Stylus, CSS, Sass;
@@ -48,6 +28,7 @@ Index
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — Javascript, PHP, CSS , All Around
+
 ### Books
-### Blogs
+
 ### Twitter
