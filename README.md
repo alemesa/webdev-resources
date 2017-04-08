@@ -31,6 +31,19 @@
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — Javascript, PHP, CSS , All Around
 
-### Books
+### Blogs
+
+| Blog   |      Description      |  Go |
+|----------|:-------------:|------:|
+| Tania Rascia |  Front-End Beginner | [Go](https://www.taniarascia.com/) |
+
 
 ### Twitter
+
+| Name   |      Twitter Handle      |  Description |
+|----------|:-------------:|------:|
+| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6 creator. Obsessed with barbecue |
+| Tyler McGinnis |    [@tylermcginnis33](https://twitter.com/tylermcginnis33)   |   React Training creator |
+| Una Kravets | [@Una](https://twitter.com/Una)| CSS Wizard. Obsessed with unicorns |
+
+
