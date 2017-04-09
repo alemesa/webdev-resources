@@ -42,8 +42,21 @@
 
 | Name   |      Twitter Handle      |  Description |
 |----------|:-------------:|------:|
-| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6 creator. Obsessed with barbecue |
+| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6 creator. Obsessed with barbecue 🍖 |
 | Tyler McGinnis |    [@tylermcginnis33](https://twitter.com/tylermcginnis33)   |   React Training creator |
-| Una Kravets | [@Una](https://twitter.com/Una)| CSS Wizard. Obsessed with unicorns |
-
-
+| Una Kravets | [@Una](https://twitter.com/Una)| CSS Wizard. Obsessed with unicorns 🦄|
+| Daniel Shiffman | [@shiffman](https://twitter.com/shiffman)| Coding Train YT Channel. Super talented |
+| David Heinemeier Hansson | [@dhh](https://twitter.com/dhh)| Ruby on Rails Creator |
+| Evan You | [@youyuxi](https://twitter.com/dhhyouyuxi) | Vue Creator |
+| Michael Jackson |    [@mjackson](https://twitter.com/mjackson)   |   React Training creator |
+| Ryan Florence |    [@ryanflorence](https://twitter.com/ryanflorence)   |   React Training creator |
+| Jeffrey Way |    [@jeffrey_way](https://twitter.com/jeffrey_way)   |   Laracasts Creator. PHP Guru |
+| Kent C. Dodds |    [@kentcdodds ‏](https://twitter.com/kentcdodds)   |   Awesome everywhere |
+| Mattias P Johansson |    [@mpjme](https://twitter.com/mpjme)   |   FunFunFun YT Channel. Legit funny |
+| Dan Abramov |    [@dan_abramov](https://twitter.com/dan_abramov‏)   |   React Guru |
+| Prosper Otemuyiwa |    [@unicodeveloper](https://twitter.com/unicodeveloper‏)   |   🔥🔥🔥🔥🔥 |
+| Lea Verou ‏ |    [@LeaVerou](https://twitter.com/LeaVerou)   |   Animations Wizard |
+| Todd Motto ‏ |    [@toddmotto](https://twitter.com/toddmotto)   |   Angular Monster. Taller than it looks |
+| John Papa ‏ |    [@John_Papa](https://twitter.com/John_Papa)   |   All-around badass |
+| David Walsh ‏ |    [@davidwalshblog](https://twitter.com/davidwalshblog)   |   He's cool |
+| Harry Roberts‏ |    [@csswizardry](https://twitter.com/csswizardry)   |   Honoring his twitter handler |
