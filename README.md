@@ -7,9 +7,9 @@
 
 ## List of Web Development Youtube Channels, Blogs and Twitter Badasses
 
-* ### [Youtube](#youtube)
-* ### [Blogs](#blogs)
-* ### [Twitter](#twitter)
+### [Youtube](#youtube)
+### [Blogs](#blogs)
+### [Twitter](#twitter)
 
 ### Youtube
 #### Useful channels | ⭐ are my Recommendations
@@ -55,14 +55,14 @@
 ### Blogs
 
 | Blog   |      Description      |  Go |
-|----------|:-------------:|------:|
+|----------|:-------------:|:------:|
 | Tania Rascia |  Front-End Beginner | [Go](https://www.taniarascia.com/) |
 
 
 ### Twitter
 
 | Name   |      Twitter Handle      |  Description |
-|----------|:-------------:|:------|
+|----------|-------------:|:------|
 | Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6 creator. Obsessed with barbecue 🍖 |
 | Tyler McGinnis |    [@tylermcginnis33](https://twitter.com/tylermcginnis33)   |   React Training creator |
 | Una Kravets | [@Una](https://twitter.com/Una)| CSS Wizard. Obsessed with unicorns 🦄|
