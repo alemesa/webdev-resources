@@ -55,6 +55,7 @@
 
 | Blog   |      Description      |  Link |
 |----------|:-------------:|:------:|
+| Smashing Magazine |  General | [Link](http://www.smashingmagazine.com/) |
 | Tania Rascia |  Front-End Beginner | [Link](https://www.taniarascia.com/) |
 | A List Apart |  Front-End  | [Link](https://alistapart.com/) |
 | CSS Tricks |  🔥🔥🔥🔥 | [Link](https://css-tricks.com/) |
@@ -81,7 +82,7 @@
 | David Heinemeier Hansson | [@dhh](https://twitter.com/dhh)| Ruby on Rails Creator |
 | Evan You | [@youyuxi](https://twitter.com/dhhyouyuxi) | Vue Creator |
 | Michael Jackson |    [@mjackson](https://twitter.com/mjackson)   |   React Training creator |
-| Ryan Florence |    [@ryanflorence](https://twitter.com/ryanflorence)   |   React Training creator |
+| Ryan Florence |    [@ryanflorence](https://twitter.com/ryanflorence)   |   React Router |
 | Jeffrey Way |    [@jeffrey_way](https://twitter.com/jeffrey_way)   |   Laracasts Creator. PHP Guru |
 | Kent C. Dodds |    [@kentcdodds ‏](https://twitter.com/kentcdodds)   |   Awesome everywhere |
 | Mattias P Johansson |    [@mpjme](https://twitter.com/mpjme)   |   FunFunFun YT Channel. Legit funny |
@@ -92,5 +93,13 @@
 | John Papa ‏ |    [@John_Papa](https://twitter.com/John_Papa)   |   All-around badass |
 | David Walsh ‏ |    [@davidwalshblog](https://twitter.com/davidwalshblog)   |   He's cool |
 | Harry Roberts‏ |    [@csswizardry](https://twitter.com/csswizardry)   |   Honoring his twitter handler |
+| Jeremy Ashkenas‏ |    [@jashkenas](https://twitter.com/csswizardry)   |   Backbone & Underscore Creator |
+| Tom Dale |    [@tomdale](https://twitter.com/tomdale)   |   Javascript thinkfluencer |
+| Rob Eisenberg |    [@EisenbergEffect](https://twitter.com/EisenbergEffect)   |   Aurelia Creator |
+| Pete Hunt |    [@floydophone](https://twitter.com/floydophone)   |   React.js |
+| Eric Elliott |    [@_ericelliott](https://twitter.com/_ericelliott)   |   Javascript. Has a mysterious bot called @JS_Cheerleader |
 
 
+### Books
+You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
+Eloquent Javascript - [Link](http://eloquentjavascript.net/)
