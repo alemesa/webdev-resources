@@ -48,25 +48,36 @@
 - [Tech CBT](https://www.youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw) — Front & Back End
 - [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQURL) — Front End + Design
 - [WebJeda](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg) — Jekyll & Github
-- [Title](URL) — Description
 
 
 
 ### Blogs
 
-| Blog   |      Description      |  Go |
+| Blog   |      Description      |  Link |
 |----------|:-------------:|:------:|
-| Tania Rascia |  Front-End Beginner | [Go](https://www.taniarascia.com/) |
+| Tania Rascia |  Front-End Beginner | [Link](https://www.taniarascia.com/) |
+| A List Apart |  Front-End  | [Link](https://alistapart.com/) |
+| CSS Tricks |  🔥🔥🔥🔥 | [Link](https://css-tricks.com/) |
+| David Walsh |  Front & Back End | [Link](https://davidwalsh.name/) |
+| Learn to Code with me |  Front-End Beginner | [Link](http://learntocodewith.me/blog/) |
+| Wes Bos |  Front End | [Link](http://wesbos.com/blog/) |
+| Todd Motto | Angular | [Link](https://toddmotto.com/) |
+| 24 ways |  Front-End Design | [Link](https://24ways.org/) |
+| Treehouse Blog |  Front-End Beginner | [Link](http://blog.teamtreehouse.com/) |
+| Codrops |  CSS Tricks & Tips | [Link](https://tympanus.net/codrops/) |
+| Coding Horror |  General | [Link](https://blog.codinghorror.com/) |
+| Hackernoon |  General | [Link](https://hackernoon.com/) |
+
 
 
 ### Twitter
 
 | Name   |      Twitter Handle      |  Description |
 |----------|-------------:|:------|
-| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6 creator. Obsessed with barbecue 🍖 |
+| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6.io. Obsessed with barbecue 🍖 |
 | Tyler McGinnis |    [@tylermcginnis33](https://twitter.com/tylermcginnis33)   |   React Training creator |
-| Una Kravets | [@Una](https://twitter.com/Una)| CSS Wizard. Obsessed with unicorns 🦄|
-| Daniel Shiffman | [@shiffman](https://twitter.com/shiffman)| Coding Train YT Channel. Super talented |
+| Una Kravets | [@Una](https://twitter.com/Una)| CSS Megamind. Toolsday Podcast host. Obsessed with unicorns 🦄|
+| Daniel Shiffman | [@shiffman](https://twitter.com/shiffman)| Coding Train YT Channel 🚆|
 | David Heinemeier Hansson | [@dhh](https://twitter.com/dhh)| Ruby on Rails Creator |
 | Evan You | [@youyuxi](https://twitter.com/dhhyouyuxi) | Vue Creator |
 | Michael Jackson |    [@mjackson](https://twitter.com/mjackson)   |   React Training creator |
