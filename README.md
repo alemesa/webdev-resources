@@ -101,5 +101,5 @@
 
 
 ### Books
-You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
-Eloquent Javascript - [Link](http://eloquentjavascript.net/)
+- You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
+- Eloquent Javascript - [Link](http://eloquentjavascript.net/)
