@@ -12,24 +12,45 @@
 * ### [Twitter](#twitter)
 
 ### Youtube
-- [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices
-- [LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) — HTML, Stylus, CSS, Sass
-- [DevTips](http://www.youtube.com/user/DevTipsForDesigners) — Foundation, CSS, RWD
-- [LearnCode.academy](http://www.youtube.com/user/learncodeacademy) — JavaScript, jQuery, React, Node.js, MEAN
+#### Useful channels | ⭐ are my Recommendations
+- [⭐Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, Command Line, Flexbox, Sublime Text, Javascript, Tips
+- [⭐The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass
+- [⭐Traversy Media](https://www.youtube.com/user/TechGuyWeb) — Javascript, PHP, CSS , All Around
+- [⭐funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, Functional programming
+- [⭐LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) — Front End
+- [⭐The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw/undefined) — Live Coding & Challenges
+- [DevTips](http://www.youtube.com/user/DevTipsForDesigners) — Front End + Design
+- [LearnCode.academy](http://www.youtube.com/user/learncodeacademy) — Front End + Backend
 - [LearnWebCode](http://www.youtube.com/user/LearnWebCode) — HTML, CSS, JavaScript, jQuery
 - [thenewboston](http://www.youtube.com/user/thenewboston) — HTML5, JavaScript, Node.js, Angular
-- [Sass Bites Podcast](http://www.youtube.com/user/sassbites) — Sass
-- [Derek Banas](http://www.youtube.com/user/derekbanas) — JavaScript, Design Patterns
-- [Coder's Guide](http://www.youtube.com/user/CodersGuide) — HTML, CSS, Bootstrap, RWD, JavaScript
-- [Quentin Watt](http://www.youtube.com/user/QuentinWatt) — HTML, CSS, Bootstrap, JavaScript
-- [Chris Coyier](http://www.youtube.com/user/realcsstricks) — HTML, CSS, JavaScript, a lot of screencasts
-- [SitePoint](https://www.youtube.com/user/SitePoint) — HTML, CSS, JavaScript, Sass, Web Design
-- [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) — HTML, CSS
+- [Derek Banas](http://www.youtube.com/user/derekbanas) — All in One Videos
+- [Neil Rowe](http://www.youtube.com/user/CodersGuide) — Front End
+- [Quentin Watt](http://www.youtube.com/user/QuentinWatt) — Front End
+- [Chris Coyier](http://www.youtube.com/user/realcsstricks) — Front End + Screencasts
+- [SitePoint](https://www.youtube.com/user/SitePoint) — Front End + Design
+- [Envato Tuts](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) — Front End
 - [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js
-- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — Javascript, PHP, CSS , All Around
-- [CodingTheSmartWay.com](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ/undefined) — Javascript, Vue, React 
+- [CodingTheSmartWay.com](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ) — Javascript, Vue, React 
+- [Alessandro Castellani](https://www.youtube.com/channel/UCbmBY_XYZqCa2G0XmFA7ZWg) — Wordpress
+- [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ) — Javascript Frameworks
+- [Code The Web](https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw/undefined) — Design
+- [Brad Hussey](https://www.youtube.com/user/hussey17) — Front End + PHP + Entepreneur
+- [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g) — Back End
+- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ) — Front & Back End + Android
+- [FITC](https://www.youtube.com/channel/UCmaq7t-9UQW8GmN2cN1J8LQ) — Conferences
+- [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQURL) — FCC Tutorials
+- [Paul Programming](https://www.youtube.com/channel/UCcDGsN3JxMavDkM9INRLGFA) — Algorithms Concepts in C++
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) — Angular & ASP.NET
+- [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6 & Firebase
+- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) — Python & Django
+- [SGF Web Devs](https://www.youtube.com/channel/UC09Jd4ouiP_BUc7REYhC2kw) — Conferences
+- [simonwiss](https://www.youtube.com/channel/UCN4tVpI6nsadgWAtGqL-J-g) — React & CSS
+- [Tech CBT](https://www.youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw) — Front & Back End
+- [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQURL) — Front End + Design
+- [WebJeda](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg) — Jekyll & Github
+- [Title](URL) — Description
+
+
 
 ### Blogs
 
@@ -41,7 +62,7 @@
 ### Twitter
 
 | Name   |      Twitter Handle      |  Description |
-|----------|:-------------:|------:|
+|----------|:-------------:|:------|
 | Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6 creator. Obsessed with barbecue 🍖 |
 | Tyler McGinnis |    [@tylermcginnis33](https://twitter.com/tylermcginnis33)   |   React Training creator |
 | Una Kravets | [@Una](https://twitter.com/Una)| CSS Wizard. Obsessed with unicorns 🦄|
@@ -56,7 +77,9 @@
 | Dan Abramov |    [@dan_abramov](https://twitter.com/dan_abramov‏)   |   React Guru |
 | Prosper Otemuyiwa |    [@unicodeveloper](https://twitter.com/unicodeveloper‏)   |   🔥🔥🔥🔥🔥 |
 | Lea Verou ‏ |    [@LeaVerou](https://twitter.com/LeaVerou)   |   Animations Wizard |
-| Todd Motto ‏ |    [@toddmotto](https://twitter.com/toddmotto)   |   Angular Monster. Taller than it looks |
+| Todd Motto ‏ |    [@toddmotto](https://twitter.com/toddmotto)   |   Angular Wizard. Taller than it looks |
 | John Papa ‏ |    [@John_Papa](https://twitter.com/John_Papa)   |   All-around badass |
 | David Walsh ‏ |    [@davidwalshblog](https://twitter.com/davidwalshblog)   |   He's cool |
 | Harry Roberts‏ |    [@csswizardry](https://twitter.com/csswizardry)   |   Honoring his twitter handler |
+
+
