@@ -48,7 +48,7 @@
 - [Tech CBT](https://www.youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw) — Front & Back End
 - [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQURL) — Front End + Design
 - [WebJeda](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg) — Jekyll & Github
-
+- [Coding Tutorials 360](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw) — FrontEnd (FCC Focus)
 
 
 ### Blogs
