@@ -87,7 +87,7 @@
 | Kent C. Dodds |    [@kentcdodds ‏](https://twitter.com/kentcdodds)   |   Awesome everywhere |
 | Mattias P Johansson |    [@mpjme](https://twitter.com/mpjme)   |   FunFunFun YT Channel. Legit funny |
 | Dan Abramov |    [@dan_abramov](https://twitter.com/dan_abramov‏)   |   React Guru |
-| Prosper Otemuyiwa |    [@unicodeveloper](https://twitter.com/unicodeveloper‏)   |   🔥🔥🔥🔥🔥 |
+| Prosper Otemuyiwa |    [@unicodeveloper](https://twitter.com/unicodeveloper‏)   | The 🔥 Developer |
 | Lea Verou ‏ |    [@LeaVerou](https://twitter.com/LeaVerou)   |   Animations Wizard |
 | Todd Motto ‏ |    [@toddmotto](https://twitter.com/toddmotto)   |   Angular Wizard. Taller than it looks |
 | John Papa ‏ |    [@John_Papa](https://twitter.com/John_Papa)   |   All-around badass |
@@ -97,7 +97,7 @@
 | Tom Dale |    [@tomdale](https://twitter.com/tomdale)   |   Javascript thinkfluencer |
 | Rob Eisenberg |    [@EisenbergEffect](https://twitter.com/EisenbergEffect)   |   Aurelia Creator |
 | Pete Hunt |    [@floydophone](https://twitter.com/floydophone)   |   React.js |
-| Eric Elliott |    [@_ericelliott](https://twitter.com/_ericelliott)   |   Javascript. Has a mysterious bot called @JS_Cheerleader |
+| Eric Elliott |    [@_ericelliott](https://twitter.com/_ericelliott)   |   Javascript Guru. Has a mysterious bot called [@JS_Cheerleader](https://twitter.com/JS_Cheerleader) |
 
 
 ### Books
