@@ -7,6 +7,8 @@
 
 ## List of Web Development Youtube Channels, Blogs and Twitter Badasses
 
+I believe learning web development is a tough task, the web changes rapidly, too fast sometimes, I believe the best way to keep on top is by following youtube channels, blogs, podcasts, conferences and twitter personalities. This list is my personal findings , I'm happy to accept pull requests and keep the list growing up.
+
 ### [Youtube](#youtube)
 ### [Blogs](#blogs)
 ### [Twitter](#twitter)
@@ -49,6 +51,8 @@
 - [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQURL) — Front End + Design
 - [WebJeda](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg) — Jekyll & Github
 - [Coding Tutorials 360](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw) — FrontEnd (FCC Focus)
+- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) — Front End
+
 
 
 ### Blogs
