@@ -12,7 +12,8 @@ I believe learning web development is a tough task, the web changes rapidly, too
 <h2><a href="#youtube">Youtube Channels</a></h2>  
 <h2><a href="#blogs">Blogs</a></h2> 
 <h2><a href="#twitter">Twitter</a></h2>    
-<h2><a href="#books">Books</a></h2>    
+<h2><a href="#books">Books</a></h2>  
+<h2><a href="#games">Games</a></h2>    
 
 <h3 id="youtube">Youtube Channels</h3>
 
@@ -104,10 +105,17 @@ I believe learning web development is a tough task, the web changes rapidly, too
 | Tom Dale |    [@tomdale](https://twitter.com/tomdale)   |   Javascript thinkfluencer |
 | Tyler McGinnis |    [@tylermcginnis33](https://twitter.com/tylermcginnis33)   |   React Training creator |
 | Una Kravets | [@Una](https://twitter.com/Una)| CSS Megamind. Toolsday Podcast host. Obsessed with unicorns 🦄|
-| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6.io. Obsessed with barbecue 🍖 |
+| Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6.io. 🍖 |
 
 
 <h3 id="books">Books</h3>
 
 - Eloquent Javascript - [Link](http://eloquentjavascript.net/)
 - You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
+
+<h3 id="games">Games</h3>
+
+- Grid Garden - [Link](http://cssgridgarden.com/) - CSS Grid
+- Flexbox Froggy - [Link](http://flexboxfroggy.com/) - Flexbox
+- CSS Diner - [Link](http://flukeout.github.io/) - CSS Selectors
+- Flexbox Defense - [Link](http://www.flexboxdefense.com/) - Flexbox
