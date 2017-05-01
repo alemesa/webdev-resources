@@ -115,7 +115,7 @@ I believe learning web development is a tough task, the web changes rapidly, too
 
 <h3 id="games">Games</h3>
 
-- Grid Garden - [Link](http://cssgridgarden.com/) - CSS Grid
-- Flexbox Froggy - [Link](http://flexboxfroggy.com/) - Flexbox
-- CSS Diner - [Link](http://flukeout.github.io/) - CSS Selectors
-- Flexbox Defense - [Link](http://www.flexboxdefense.com/) - Flexbox
+- Grid Garden - [Link](http://cssgridgarden.com/) => CSS Grid
+- Flexbox Froggy - [Link](http://flexboxfroggy.com/) => Flexbox
+- CSS Diner - [Link](http://flukeout.github.io/) => CSS Selectors
+- Flexbox Defense - [Link](http://www.flexboxdefense.com/) => Flexbox
