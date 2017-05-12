@@ -119,3 +119,4 @@ I believe learning web development is a tough task, the web changes rapidly, too
 - Flexbox Froggy - [Link](http://flexboxfroggy.com/) => Flexbox
 - CSS Diner - [Link](http://flukeout.github.io/) => CSS Selectors
 - Flexbox Defense - [Link](http://www.flexboxdefense.com/) => Flexbox
+- Flexbox Zombies - [Link](http://flexboxzombies.com/p/flexbox-zombies) => Flexbox
