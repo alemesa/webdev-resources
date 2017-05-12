@@ -9,13 +9,13 @@
 
 I believe learning web development is a tough task, the web changes rapidly, too fast sometimes, I believe the best way to keep on top is by following youtube channels, blogs, podcasts, conferences and twitter personalities. This list is my personal findings , I'm happy to accept pull requests and keep the list growing up.
 
-<h2><a href="#youtube">Youtube Channels</a></h2>  
-<h2><a href="#blogs">Blogs</a></h2> 
-<h2><a href="#twitter">Twitter</a></h2>    
-<h2><a href="#books">Books</a></h2>  
-<h2><a href="#games">Games</a></h2>    
+[Youtube Channels](#youtube-channels)  
+[Blogs](#blogs)    
+[Twitter](#twitter)  
+[Books](#books)   
+[Games](#games)    
 
-<h3 id="youtube">Youtube Channels</h3>
+### Youtube Channels
 
 #### Useful channels | ⭐ are my Recommendations
 
@@ -59,7 +59,7 @@ I believe learning web development is a tough task, the web changes rapidly, too
 
 
 
-<h3 id="blogs">Blogs</h3>
+### Blogs
 
 | Blog   |      Description      |  Link |
 |----------|:-------------:|:------:|
@@ -78,8 +78,7 @@ I believe learning web development is a tough task, the web changes rapidly, too
 | Wes Bos |  Front End | [Link](http://wesbos.com/blog/) |
 
 
-
-<h3 id="twitter">Twitter</h3>
+### Twitter
 
 | Name   |      Twitter Handle      |  Description |
 |----------|-------------:|:------|
@@ -108,12 +107,12 @@ I believe learning web development is a tough task, the web changes rapidly, too
 | Wes Bos |  [@wesbos](https://twitter.com/wesbos) | Javascript30, React for Beginners, ES6.io. 🍖 |
 
 
-<h3 id="books">Books</h3>
+### Books
 
 - Eloquent Javascript - [Link](http://eloquentjavascript.net/)
 - You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
 
-<h3 id="games">Games</h3>
+### Games
 
 - Grid Garden - [Link](http://cssgridgarden.com/) => CSS Grid
 - Flexbox Froggy - [Link](http://flexboxfroggy.com/) => Flexbox
