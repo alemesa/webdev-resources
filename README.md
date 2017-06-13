@@ -38,9 +38,11 @@ I believe learning web development is a tough task, the web changes rapidly, too
 - [Derek Banas](http://www.youtube.com/user/derekbanas) — All in One Videos
 - [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js
 - [DevTips](http://www.youtube.com/user/DevTipsForDesigners) — Front End + Design
+- [Eduonix Learning Solutions](https://www.youtube.com/channel/UCAQjmY2DJqwU3Eqz0oN83aw) — Front End - Brad Traversy
 - [Envato Tuts](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) — Front End
 - [FITC](https://www.youtube.com/channel/UCmaq7t-9UQW8GmN2cN1J8LQ) — Conferences
 - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQURL) — FCC Tutorials
+- [FrontendTips](https://www.youtube.com/channel/UC0abAX9cuVB0klLobCewq-g) — Front End
 - [LearnCode.academy](http://www.youtube.com/user/learncodeacademy) — Front End + Backend
 - [LearnWebCode](http://www.youtube.com/user/LearnWebCode) — HTML, CSS, JavaScript, jQuery
 - [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQURL) — Front End + Design
