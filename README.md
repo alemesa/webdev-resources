@@ -70,13 +70,16 @@ I believe learning web development is a tough task, the web changes rapidly, too
 | Coding Horror |  General | [Link](https://blog.codinghorror.com/) |
 | Codrops |  CSS Tricks & Tips | [Link](https://tympanus.net/codrops/) |
 | CSS Tricks |  🔥🔥🔥🔥 | [Link](https://css-tricks.com/) |
+| CSS Wizardy |  👻👻👻 | [Link](https://csswizardry.com/) |
 | David Walsh |  Front & Back End | [Link](https://davidwalsh.name/) |
 | Hackernoon |  General | [Link](https://hackernoon.com/) |
 | Learn to Code with me |  Front-End Beginner | [Link](http://learntocodewith.me/blog/) |
+| Scotch Development |  Front-End | [Link](https://scotch.io/) |
 | Smashing Magazine |  General | [Link](http://www.smashingmagazine.com/) |
 | Tania Rascia |  Front-End Beginner | [Link](https://www.taniarascia.com/) |
 | Todd Motto | Angular | [Link](https://toddmotto.com/) |
 | Treehouse Blog |  Front-End Beginner | [Link](http://blog.teamtreehouse.com/) |
+| TutorialZine |  Front-End | [Link](https://tutorialzine.com/) |
 | Wes Bos |  Front End | [Link](http://wesbos.com/blog/) |
 
 
