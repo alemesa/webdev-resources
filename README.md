@@ -13,7 +13,9 @@ I believe learning web development is a tough task, the web changes rapidly, too
 [Blogs](#blogs)    
 [Twitter](#twitter)  
 [Books](#books)   
-[Games](#games)    
+[Games](#games)
+[Podcasts](#podcasts)  
+[Reddit Channels](#reddit-channels)    
 
 ### Youtube Channels
 
@@ -118,6 +120,7 @@ I believe learning web development is a tough task, the web changes rapidly, too
 
 - Eloquent Javascript - [Link](http://eloquentjavascript.net/)
 - You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
+- Exploring JS - [link](http://exploringjs.com/)
 
 ### Games
 
@@ -126,3 +129,20 @@ I believe learning web development is a tough task, the web changes rapidly, too
 - CSS Diner - [Link](http://flukeout.github.io/) => CSS Selectors
 - Flexbox Defense - [Link](http://www.flexboxdefense.com/) => Flexbox
 - Flexbox Zombies - [Link](http://flexboxzombies.com/p/flexbox-zombies) => Flexbox
+
+### Podcasts
+
+ * [Front End Happy Hour](http://frontendhappyhour.com/)
+ * [Code Newbie](http://www.codenewbie.org/)
+ * [JavaScript Jabber](https://devchat.tv/js-jabber)
+ * [Shop Talk](http://shoptalkshow.com/)
+ * [Syntax (Wes Bos & Scott Tolinski)](https://syntax.fm/)
+ * [Toolsday (Una Kravets & Chris Dhanaraj)](http://www.toolsday.io/)
+
+### Reddit Channels
+
+*  [r/webdev](https://www.reddit.com/r/webdev/)
+*  [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+*  [r/webdevtutorials](https://www.reddit.com/r/WebdevTutorials/)
+*  [r/web_design](https://www.reddit.com/r/web_design/)
+*  [r/cscareerquestion](https://www.reddit.com/r/cscareerquestions)
