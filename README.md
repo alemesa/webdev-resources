@@ -132,12 +132,12 @@ I believe learning web development is a tough task, the web changes rapidly, too
 
 ### Podcasts
 
- * [Front End Happy Hour](http://frontendhappyhour.com/)
- * [Code Newbie](http://www.codenewbie.org/)
- * [JavaScript Jabber](https://devchat.tv/js-jabber)
- * [Shop Talk](http://shoptalkshow.com/)
- * [Syntax (Wes Bos & Scott Tolinski)](https://syntax.fm/)
- * [Toolsday (Una Kravets & Chris Dhanaraj)](http://www.toolsday.io/)
+ - Front End Happy Hour - [Link](http://frontendhappyhour.com/)
+ - Code Newbie - [Link](http://www.codenewbie.org/)
+ - JavaScript Jabber - [Link](https://devchat.tv/js-jabber)
+ - Shop Talk - [Link](http://shoptalkshow.com/)
+ - Syntax (Wes Bos & Scott Tolinski) - [Link](https://syntax.fm/)
+ - Toolsday (Una Kravets & Chris Dhanaraj) - [Link](http://www.toolsday.io/)
 
 ### Reddit Channels
 
