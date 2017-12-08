@@ -121,6 +121,8 @@ I believe learning web development is a tough task, the web changes rapidly, too
 - Eloquent Javascript - [Link](http://eloquentjavascript.net/)
 - You Don't Know JS - [Link](https://github.com/getify/You-Dont-Know-JS)
 - Exploring JS - [link](http://exploringjs.com/)
+- Javascript The Good Parts - [link](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+- Javascript Design Patterns - [link](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Games
 
