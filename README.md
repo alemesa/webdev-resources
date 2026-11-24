@@ -71,6 +71,7 @@ I believe learning web development is a tough task, the web changes rapidly, too
 |----------|:-------------:|:------:|
 | 24 ways |  Front-End Design | [Link](https://24ways.org/) |
 | A List Apart |  Front-End  | [Link](https://alistapart.com/) |
+| BestJSON Guides | JSON data handling, validation and JavaScript number precision | [Link](https://bestjson.com/learn) |
 | Coding Horror |  General | [Link](https://blog.codinghorror.com/) |
 | Codrops |  CSS Tricks & Tips | [Link](https://tympanus.net/codrops/) |
 | CSS Tricks |  🔥🔥🔥🔥 | [Link](https://css-tricks.com/) |
